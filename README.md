@@ -2,7 +2,7 @@
 
 ## 🧬 Biólogo | 📊 Cientista de Dados | 🌿 Análise Ambiental
 
-Trabalho na intersecção entre **Biologia**, **Bioinformática** e **Ciência de Dados**, desenvolvendo soluções para análise de dados ambientais e genômicos.
+Trabalho na intersecção entre **Biologia**, **Bioinformática** e **Ciência de Dados**, gerindo o desenvolvimento de soluções para várias áreas.
 
 ---
 
