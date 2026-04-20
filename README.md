@@ -7,18 +7,19 @@ Trabalho na intersecção entre **Biologia**, **Bioinformática** e **Ciência d
 ---
 
 ### 🔭 No momento estou trabalhando em...
+- Seteg (https://www.setegce.com/)
 - Projetos privados de análise ambiental e monitoramento
-- Desenvolvimento do MVP da plataforma **7station** (SetegCE)
+- Desenvolvimento de soluções web
 
 ### 🌱 Aprendendo & Explorando
 - Análise de dados genômicos em larga escala
 - Visualização de dados ambientais
-- Desenvolvimento web com JavaScript
+- Desenvolvimento web com JavaScript, Python
 
 ### 🤝 Aberto a colaborações em
 - Projetos de Bioinformática e Genômica
 - Análise de dados ecológicos e ambientais
-- Ferramentas open source para ciências biológicas
+- Ferramentas open source
 
 ---
 
@@ -40,5 +41,3 @@ Trabalho na intersecção entre **Biologia**, **Bioinformática** e **Ciência d
 ---
 
 ### 📍 Natal, RN, Brasil | he/him
-
-*"Usando dados para entender e proteger o mundo natural."*
