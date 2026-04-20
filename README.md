@@ -1,6 +1,6 @@
-# Olá, eu sou Ricardo da Silveira Filho! 👋
+# Olá, eu sou Ricardo! 👋
 
-## 🧬 Biólogo | 📊 Cientista de Dados | 🌿 Análise Ambiental
+## 🧬 Biólogo | 📊 Cientista de Dados
 
 Trabalho na intersecção entre **Biologia**, **Bioinformática** e **Ciência de Dados**, gerindo o desenvolvimento de soluções para várias áreas.
 
