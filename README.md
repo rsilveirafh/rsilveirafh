@@ -45,7 +45,7 @@ The thread running through all of it is the same. Someone is doing by hand, twic
 
 | Project | What it is | Stack |
 |---|---|---|
-| **rr-quant** 🔒 | Personal quant dashboard. Pulls a 46-asset pre-market snapshot covering indices, commodities, FX, rates and volatility, then layers on regime and correlation reads, a logistic-regression scoreboard for the Ibovespa, and a Smart Money Concepts view over OHLC. Runs itself every trading session. | Python, yfinance, Vercel |
+| **[rr-quant](https://github.com/rsilveirafh/rr-quant)** | Personal quant dashboard. Pulls a 46-asset pre-market snapshot covering indices, commodities, FX, rates and volatility, then layers on regime and correlation reads, a logistic-regression scoreboard for the Ibovespa, and a Smart Money Concepts view over OHLC. Runs itself every trading session. | Python, yfinance, Vercel |
 | **[dash_ppbio](https://github.com/rsilveirafh/dash_ppbio)** | *Panoramas da Biodiversidade Brasileira*, an interactive dashboard over occurrence and genetic data for PPBio, Brazil's Biodiversity Research Program. Built during my post-doctorate there in 2022. | R, flexdashboard, highcharter, plotly |
 | **[postdoc_ppbio](https://github.com/rsilveirafh/postdoc_ppbio)** | Analysis scripts behind the same post-doctorate: species list assembly, taxonomic resolution through taxize, and the reporting pipeline. | R, taxize, Quarto |
 | **[covid19_r](https://github.com/rsilveirafh/covid19_r)** | Shiny dashboard tracking COVID-19 in Brazil, 2020. Archived, the hosted app is no longer running. | R, Shiny |
