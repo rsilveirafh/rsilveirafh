@@ -37,8 +37,6 @@ The thread running through all of it is the same. Someone is doing by hand, twic
 
 **Green CI is not evidence.** Two of my releases shipped with type checks, tests and build all passing, and blockers waiting in production. Opening the live product by hand is now part of my definition of done.
 
-**Backtests leak.** A 55% hit rate in one of my own models fell to 48.5% once the data clock was respected.
-
 ---
 
 ## Selected work
@@ -114,8 +112,6 @@ O fio que atravessa tudo isso é o mesmo. Alguém está fazendo à mão, duas ve
 **Memória com humano no circuito.** Um vault Obsidian onde entra o diário e saem propostas estruturadas. Reviso cada uma antes de ser gravada.
 
 **CI verde não é evidência.** Duas das minhas versões subiram com checagem de tipos, testes e build passando, e bloqueadores esperando em produção. Abrir o produto no ar na mão passou a fazer parte da minha definição de pronto.
-
-**Backtest vaza.** Uma taxa de acerto de 55% em um modelo meu caiu para 48,5% quando o relógio dos dados foi respeitado.
 
 ### Formação e pesquisa
 
