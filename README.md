@@ -11,7 +11,7 @@ Zoologist by training, now working as a data and software engineer. For a decade
 
 ## Recent work
 
-Until October 2026 I was an Innovation Analyst at [Seteg](https://www.setegce.com/), an environmental consultancy, where I led the development portfolio of a small team. The work grouped into a few fronts.
+Through November 2026 I am an Innovation Analyst at [Seteg](https://www.setegce.com/), an environmental consultancy, where I have led the development portfolio of a small team. The work grouped into a few fronts.
 
 **Field data collection.** Apps that replace paper forms and spreadsheets for biologists running fauna and flora surveys, so records arrive structured instead of being retyped weeks later.
 
@@ -94,7 +94,7 @@ Biólogo de formação, hoje trabalhando como engenheiro de dados e software. Du
 
 ### Trabalho recente
 
-Até outubro de 2026 fui Analista de Inovação na [Seteg](https://www.setegce.com/), consultoria ambiental, onde liderei o portfólio de desenvolvimento de um time pequeno. O trabalho se agrupava em algumas frentes.
+Até novembro de 2026 sou Analista de Inovação na [Seteg](https://www.setegce.com/), consultoria ambiental, onde lidero o portfólio de desenvolvimento de um time pequeno. O trabalho se agrupava em algumas frentes.
 
 **Coleta de dados em campo.** Apps que substituem formulário de papel e planilha para biólogos em levantamentos de fauna e flora, de modo que o registro chegue estruturado em vez de ser redigitado semanas depois.
 
