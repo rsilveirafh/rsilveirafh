@@ -5,7 +5,7 @@ Zoologist by training, now working as a data and software engineer. For a decade
 📍 Natal, RN, Brazil · he/him
 [Website](https://rsilveirafh.netlify.app/) · [LinkedIn](https://linkedin.com/in/rsilveirafh) · [Lattes CV](http://lattes.cnpq.br/6028156427352678)
 
-> **Open to work.** Looking for remote roles as a data scientist or developer in environmental data, ESG, biodiversity or research. Reach me at ricardodasilveira@gmail.com or on [LinkedIn](https://linkedin.com/in/rsilveirafh).
+> **Open to work.** Looking for remote roles as a data scientist or developer in environmental data, ESG, biodiversity or research. Reach me at rsilveirafh@gmail.com or on [LinkedIn](https://linkedin.com/in/rsilveirafh).
 
 ---
 
@@ -90,7 +90,7 @@ Biólogo de formação, hoje trabalhando como engenheiro de dados e software. Du
 
 📍 Natal, RN · [Site](https://rsilveirafh.netlify.app/) · [LinkedIn](https://linkedin.com/in/rsilveirafh) · [Lattes](http://lattes.cnpq.br/6028156427352678)
 
-> **Disponível para novas oportunidades.** Busco vagas remotas como cientista de dados ou desenvolvedor em dados ambientais, ESG, biodiversidade ou pesquisa. Contato: ricardodasilveira@gmail.com ou [LinkedIn](https://linkedin.com/in/rsilveirafh).
+> **Disponível para novas oportunidades.** Busco vagas remotas como cientista de dados ou desenvolvedor em dados ambientais, ESG, biodiversidade ou pesquisa. Contato: rsilveirafh@gmail.com ou [LinkedIn](https://linkedin.com/in/rsilveirafh).
 
 ### Trabalho recente
 
