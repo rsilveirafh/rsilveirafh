@@ -5,11 +5,13 @@ Zoologist by training, now working as a data and software engineer. For a decade
 📍 Natal, RN, Brazil · he/him
 [Website](https://rsilveirafh.netlify.app/) · [LinkedIn](https://linkedin.com/in/rsilveirafh) · [Lattes CV](http://lattes.cnpq.br/6028156427352678)
 
+> **Open to work.** Looking for remote roles as a data scientist or developer in environmental data, ESG, biodiversity or research. Reach me at ricardodasilveira@gmail.com or on [LinkedIn](https://linkedin.com/in/rsilveirafh).
+
 ---
 
-## What I do
+## Recent work
 
-Innovation Analyst at [Seteg](https://www.setegce.com/), an environmental consultancy, where I lead the development portfolio of a small team. The work groups into a few fronts.
+Until October 2026 I was an Innovation Analyst at [Seteg](https://www.setegce.com/), an environmental consultancy, where I led the development portfolio of a small team. The work grouped into a few fronts.
 
 **Field data collection.** Apps that replace paper forms and spreadsheets for biologists running fauna and flora surveys, so records arrive structured instead of being retyped weeks later.
 
@@ -22,6 +24,8 @@ Innovation Analyst at [Seteg](https://www.setegce.com/), an environmental consul
 **Platform consolidation.** Folding standalone internal systems into one platform. The instructive part was discovering that several modules already had working backends and nobody had migrated, which made it a cutover problem rather than a coding one.
 
 Alongside the products I wrote the team's operating manual: how a requirement gets written, how git is used, how project boards are kept, and what the delivery lifecycle looks like from demand to handover. Most of the gain there came from putting documents that already existed into a defined order.
+
+Before that I spent four years as a data scientist at Conciso TI, and more than a decade doing environmental consulting on the side, most recently as technical lead of a sea turtle monitoring program at the Port of Natal.
 
 The thread running through all of it is the same. Someone is doing by hand, twice, something a system should be doing once.
 
@@ -45,6 +49,7 @@ The thread running through all of it is the same. Someone is doing by hand, twic
 |---|---|---|
 | **[memoria-skills](https://github.com/rsilveirafh/memoria-skills)** | Claude Code skills that turn a Markdown vault into a memory system with a human gate. The agent proposes, I review, a separate command applies. Four commands, and one of them exists only to say no. Running daily on my own vault since May 2026. | Claude Code skills, Markdown, Git |
 | **[rr-quant](https://github.com/rsilveirafh/rr-quant)** | Personal quant dashboard. Pulls a 46-asset pre-market snapshot covering indices, commodities, FX, rates and volatility, then layers on regime and correlation reads, a logistic-regression scoreboard for the Ibovespa, and a Smart Money Concepts view over OHLC. Runs itself every trading session. | Python, yfinance, Vercel |
+| **[carona-solidaria](https://github.com/rsilveirafh/carona-solidaria)** | Volunteer ride matching for voters with limited mobility in Brazil's 2026 runoff. Went from a neighbourhood idea to three cities (Natal, Recife, João Pessoa) in four days: official polling-place lists, driver approval, bot limits and automatic data deletion after the election. 44 drivers and 13 ride requests. Closed on schedule. | JavaScript PWA, Google Apps Script, GitHub Pages |
 | **[dash_ppbio](https://github.com/rsilveirafh/dash_ppbio)** | *Panoramas da Biodiversidade Brasileira*, an interactive dashboard over occurrence and genetic data for PPBio, Brazil's Biodiversity Research Program. Built during my post-doctorate there in 2022. | R, flexdashboard, highcharter, plotly |
 | **[postdoc_ppbio](https://github.com/rsilveirafh/postdoc_ppbio)** | Analysis scripts behind the same post-doctorate: species list assembly, taxonomic resolution through taxize, and the reporting pipeline. | R, taxize, Quarto |
 | **[covid19_r](https://github.com/rsilveirafh/covid19_r)** | Shiny dashboard tracking COVID-19 in Brazil, 2020. Archived, the hosted app is no longer running. | R, Shiny |
@@ -85,9 +90,11 @@ Biólogo de formação, hoje trabalhando como engenheiro de dados e software. Du
 
 📍 Natal, RN · [Site](https://rsilveirafh.netlify.app/) · [LinkedIn](https://linkedin.com/in/rsilveirafh) · [Lattes](http://lattes.cnpq.br/6028156427352678)
 
-### O que eu faço
+> **Disponível para novas oportunidades.** Busco vagas remotas como cientista de dados ou desenvolvedor em dados ambientais, ESG, biodiversidade ou pesquisa. Contato: ricardodasilveira@gmail.com ou [LinkedIn](https://linkedin.com/in/rsilveirafh).
 
-Analista de Inovação na [Seteg](https://www.setegce.com/), consultoria ambiental, onde lidero o portfólio de desenvolvimento de um time pequeno. O trabalho se agrupa em algumas frentes.
+### Trabalho recente
+
+Até outubro de 2026 fui Analista de Inovação na [Seteg](https://www.setegce.com/), consultoria ambiental, onde liderei o portfólio de desenvolvimento de um time pequeno. O trabalho se agrupava em algumas frentes.
 
 **Coleta de dados em campo.** Apps que substituem formulário de papel e planilha para biólogos em levantamentos de fauna e flora, de modo que o registro chegue estruturado em vez de ser redigitado semanas depois.
 
@@ -100,6 +107,8 @@ Analista de Inovação na [Seteg](https://www.setegce.com/), consultoria ambient
 **Consolidação de plataforma.** Absorver sistemas internos avulsos em uma plataforma única. A parte instrutiva foi descobrir que vários módulos já tinham backend pronto e ninguém havia migrado, o que tornou o problema um caso de cutover e não de código.
 
 Junto aos produtos, escrevi o manual de operação do time: como um requisito é escrito, como o git é usado, como os boards de projeto são mantidos e qual é o ciclo de vida da entrega, da demanda ao repasse. O ganho maior veio de colocar em ordem definida documentos que já existiam.
+
+Antes disso, fui cientista de dados na Conciso TI por quatro anos e fiz consultoria ambiental por mais de uma década, por último como responsável técnico do monitoramento de tartarugas marinhas no Porto de Natal.
 
 O fio que atravessa tudo isso é o mesmo. Alguém está fazendo à mão, duas vezes, algo que um sistema deveria fazer uma vez.
 
@@ -123,4 +132,4 @@ Dezesseis artigos em periódicos, entre eles dois na *Science*, de 2023 e 2024, 
 
 ---
 
-<sub>Os repositórios aqui são um recorte. Boa parte do que construo é privada ou vive na organização em que trabalho.</sub>
+<sub>Os repositórios aqui são um recorte. Boa parte do que construí na Seteg é privada e ficou com a empresa. · The repositories here are a sample; most of what I built at Seteg is private to the company.</sub>
