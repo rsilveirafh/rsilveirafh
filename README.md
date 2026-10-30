@@ -125,6 +125,17 @@ Em todos esses trabalhos eu procurei a mesma coisa: o que as pessoas repetiam à
 
 **CI verde não é evidência.** Duas das minhas versões subiram com checagem de tipos, testes e build passando, e bloqueadores esperando em produção. Abrir o produto no ar na mão passou a fazer parte da minha definição de pronto.
 
+### Projetos em destaque
+
+- **[tetrapoDNA](https://github.com/rsilveirafh/tetrapoDNA)**: quais anfíbios, répteis, aves e mamíferos do Brasil ainda não têm nenhuma sequência de DNA pública? [Painel](https://rsilveirafh.github.io/tetrapoDNA/) atualizado toda semana com BOLD e GenBank, com a opção de um pesquisador adotar uma espécie para sequenciar.
+- **[banca-simulada](https://github.com/rsilveirafh/banca-simulada)**: plugin do Claude Code que revisa projetos de pesquisa como uma banca ou comitê avaliador faria, do TCC ao concurso docente. Aponta o trecho, a gravidade e a sugestão, sem reescrever.
+- **[memoria-skills](https://github.com/rsilveirafh/memoria-skills)**: plugin do Claude Code que transforma um vault Markdown em memória com portão humano. O agente propõe, eu reviso, um comando separado aplica.
+- **[carona-solidaria](https://github.com/rsilveirafh/carona-solidaria)**: caronas voluntárias para eleitores com dificuldade de locomoção no 2º turno de 2026, em Natal, Recife e João Pessoa. Saiu da ideia ao ar em quatro dias.
+- **[rr-quant](https://github.com/rsilveirafh/rr-quant)**: dashboard quant pessoal com snapshot pré-mercado de 46 ativos, rodando sozinho a cada pregão.
+- **[dash_ppbio](https://github.com/rsilveirafh/dash_ppbio)**: *Panoramas da Biodiversidade Brasileira*, dashboard do pós-doutorado no PPBio (2022).
+
+**Contribuições em código aberto.** Atualização de pacotes da comunidade para as listas oficiais de 2026: um [pull request](https://github.com/paulobarros/amphiBR/pull/2) no [amphiBR](https://github.com/paulobarros/amphiBR) com a Lista de Anfíbios do Brasil 2026 e as categorias da Portaria MMA 1.704/2026, e uma [proposta](https://github.com/omarentiauspe/ReptiliaBR/issues/1) da mesma atualização no [ReptiliaBR](https://github.com/omarentiauspe/ReptiliaBR).
+
 ### Formação e pesquisa
 
 Doutorado e mestrado em Zoologia pela UFPB, em herpetologia, filogenética e filogeografia, principalmente de serpentes. Depois, dois pós-doutorados: UNEMAT, de 2018 a 2019, em ecologia vegetal e traços funcionais, e UFRN junto ao PPBio, de 2022 a 2023, em biodiversidade e bioinformática. Licenciatura em Ciências Biológicas pela UEFS.
