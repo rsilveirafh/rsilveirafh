@@ -35,7 +35,7 @@ The thread running through all of it is the same. Someone is doing by hand, twic
 
 **Spec before code.** A project starts as a written contract: brief, domain research, then requirements mapped one to one onto vertical MVP phases, each with explicit success criteria. Nothing gets built without a phase that owns it.
 
-**Agents inside a pipeline.** I drive Claude Code through custom skills I wrote for planning, execution, verification and review, so the same discipline applies whether the code comes from me or from an agent.
+**Agents inside a pipeline.** I drive Claude Code through custom skills I wrote for planning, execution, verification and review, so the same discipline applies whether the code comes from me or from an agent. The ones worth sharing are published as plugins in my [claude-plugins](https://github.com/rsilveirafh/claude-plugins) catalog.
 
 **Memory with a human in the loop.** An Obsidian vault where a daily journal goes in and structured proposals come out. I review every one before it is written.
 
@@ -47,12 +47,15 @@ The thread running through all of it is the same. Someone is doing by hand, twic
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[memoria-skills](https://github.com/rsilveirafh/memoria-skills)** | Claude Code skills that turn a Markdown vault into a memory system with a human gate. The agent proposes, I review, a separate command applies. Four commands, and one of them exists only to say no. Running daily on my own vault since May 2026. | Claude Code skills, Markdown, Git |
+| **[tetrapoDNA](https://github.com/rsilveirafh/tetrapoDNA)** | Which Brazilian amphibians, reptiles, birds and mammals still have no public DNA sequence at all? A [live dashboard](https://rsilveirafh.github.io/tetrapoDNA/) checks every species on the official checklists against BOLD and GenBank each week, flags names that need a closer look (synonyms, genus transfers), ranks the gaps by threat and endemism, and lets researchers publicly adopt a species to sequence. | R, GitHub Actions, GitHub Pages |
+| **[banca-simulada](https://github.com/rsilveirafh/banca-simulada)** | Claude Code plugin that reviews a research proposal the way a Brazilian thesis committee or grant panel would, from undergraduate thesis to faculty hiring exams. It checks coherence, method, feasibility, research ethics and references, quotes the passage, grades the severity and suggests a fix without rewriting. It can only cite regulations from a file checked against official sources. In three test runs on fictional proposals with 12 planted errors each, it caught all of them and never quoted a passage that was not in the text. | Claude Code plugin, Markdown, Python |
+| **[memoria-skills](https://github.com/rsilveirafh/memoria-skills)** | Claude Code plugin that turns a Markdown vault into a memory system with a human gate. The agent proposes, I review, a separate command applies. Four commands, and one of them exists only to say no. Running daily on my own vault since May 2026. | Claude Code plugin, Markdown, Git |
 | **[rr-quant](https://github.com/rsilveirafh/rr-quant)** | Personal quant dashboard. Pulls a 46-asset pre-market snapshot covering indices, commodities, FX, rates and volatility, then layers on regime and correlation reads, a logistic-regression scoreboard for the Ibovespa, and a Smart Money Concepts view over OHLC. Runs itself every trading session. | Python, yfinance, Vercel |
 | **[carona-solidaria](https://github.com/rsilveirafh/carona-solidaria)** | Volunteer ride matching for voters with limited mobility in Brazil's 2026 runoff. Went from a neighbourhood idea to three cities (Natal, Recife, João Pessoa) in four days: official polling-place lists, driver approval, bot limits and automatic data deletion after the election. 44 drivers and 13 ride requests. Closed on schedule. | JavaScript PWA, Google Apps Script, GitHub Pages |
 | **[dash_ppbio](https://github.com/rsilveirafh/dash_ppbio)** | *Panoramas da Biodiversidade Brasileira*, an interactive dashboard over occurrence and genetic data for PPBio, Brazil's Biodiversity Research Program. Built during my post-doctorate there in 2022. | R, flexdashboard, highcharter, plotly |
 | **[postdoc_ppbio](https://github.com/rsilveirafh/postdoc_ppbio)** | Analysis scripts behind the same post-doctorate: species list assembly, taxonomic resolution through taxize, and the reporting pipeline. | R, taxize, Quarto |
-| **[covid19_r](https://github.com/rsilveirafh/covid19_r)** | Shiny dashboard tracking COVID-19 in Brazil, 2020. Archived, the hosted app is no longer running. | R, Shiny |
+
+**Open source contributions.** Bringing community datasets in line with Brazil's 2026 official lists: a [pull request](https://github.com/paulobarros/amphiBR/pull/2) updating the [amphiBR](https://github.com/paulobarros/amphiBR) R package to the 2026 Brazilian amphibian checklist and the new federal threat categories (MMA Ordinance 1,704/2026), and a [proposal](https://github.com/omarentiauspe/ReptiliaBR/issues/1) for the same threat-status update in [ReptiliaBR](https://github.com/omarentiauspe/ReptiliaBR).
 
 ---
 
