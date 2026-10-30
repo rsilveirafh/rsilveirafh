@@ -97,7 +97,7 @@ Biólogo de formação, hoje trabalhando como engenheiro de dados e software. Du
 
 ### Trabalho recente
 
-Até novembro de 2026 sou Analista de Inovação na [Seteg](https://www.setegce.com/), consultoria ambiental, onde lidero o portfólio de desenvolvimento de um time pequeno. O trabalho se agrupava em algumas frentes.
+Lidero o portfólio de desenvolvimento do time de inovação da [Seteg](https://www.setegce.com/), consultoria ambiental, onde meu contrato vai até novembro de 2026. O trabalho se divide em algumas frentes.
 
 **Coleta de dados em campo.** Apps que substituem formulário de papel e planilha para biólogos em levantamentos de fauna e flora, de modo que o registro chegue estruturado em vez de ser redigitado semanas depois.
 
@@ -113,13 +113,13 @@ Junto aos produtos, escrevi o manual de operação do time: como um requisito é
 
 Antes disso, fui cientista de dados na Conciso TI por quatro anos e fiz consultoria ambiental por mais de uma década, por último como responsável técnico do monitoramento de tartarugas marinhas no Porto de Natal.
 
-O fio que atravessa tudo isso é o mesmo. Alguém está fazendo à mão, duas vezes, algo que um sistema deveria fazer uma vez.
+Em todos esses trabalhos eu procurei a mesma coisa: o que as pessoas repetiam à mão, para construir o sistema que faz aquilo uma vez só.
 
 ### Como eu trabalho
 
 **Especificação antes de código.** O projeto começa como contrato escrito: briefing, pesquisa de domínio e requisitos mapeados um a um em fases MVP verticais, cada uma com critérios de sucesso explícitos. Nada é construído sem uma fase que seja dona daquilo.
 
-**Agentes dentro de um pipeline.** Conduzo o Claude Code por skills próprias de planejamento, execução, verificação e revisão, para que a mesma disciplina valha se o código vem de mim ou de um agente.
+**Agentes dentro de um pipeline.** Conduzo o Claude Code por skills próprias de planejamento, execução, verificação e revisão, para que a mesma disciplina valha se o código vem de mim ou de um agente. As que valem a pena compartilhar estão publicadas como plugins no meu catálogo [claude-plugins](https://github.com/rsilveirafh/claude-plugins).
 
 **Memória com humano no circuito.** Um vault Obsidian onde entra o diário e saem propostas estruturadas. Reviso cada uma antes de ser gravada.
 
