@@ -11,7 +11,7 @@ Zoologist by training, now working as a data and software engineer. For a decade
 
 ## Recent work
 
-Through November 2026 I am an Innovation Analyst at [Seteg](https://www.setegce.com/), an environmental consultancy, where I have led the development portfolio of a small team. The work grouped into a few fronts.
+I lead the development portfolio of the innovation team at [Seteg](https://www.setegce.com/), an environmental consultancy, where my contract ends in November 2026. The work falls into a few fronts.
 
 **Field data collection.** Apps that replace paper forms and spreadsheets for biologists running fauna and flora surveys, so records arrive structured instead of being retyped weeks later.
 
@@ -27,7 +27,7 @@ Alongside the products I wrote the team's operating manual: how a requirement ge
 
 Before that I spent four years as a data scientist at Conciso TI, and more than a decade doing environmental consulting on the side, most recently as technical lead of a sea turtle monitoring program at the Port of Natal.
 
-The thread running through all of it is the same. Someone is doing by hand, twice, something a system should be doing once.
+In every one of these jobs I went looking for the same thing: work people were repeating by hand, so I could build the system that does it once.
 
 ---
 
