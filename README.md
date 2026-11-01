@@ -1,6 +1,6 @@
 # Ricardo Silveira
 
-Zoologist by training, now working as a data and software engineer. For a decade I asked questions of biological data: phylogeography, herpetology, population genomics. Today I build the systems that turn environmental and field data into something a team can act on.
+Biologist (PhD), data scientist and developer. For a decade I asked questions of biological data: phylogeography, herpetology, population genomics. Today I build the systems that turn environmental and field data into something a team can act on.
 
 📍 Natal, RN, Brazil · he/him
 [Website](https://rsilveirafh.netlify.app/) · [LinkedIn](https://linkedin.com/in/rsilveirafh) · [Lattes CV](http://lattes.cnpq.br/6028156427352678)
@@ -89,7 +89,7 @@ Full list on [Lattes](http://lattes.cnpq.br/6028156427352678).
 
 <br>
 
-Biólogo de formação, hoje trabalhando como engenheiro de dados e software. Durante uma década fiz perguntas a dados biológicos: filogeografia, herpetologia, genômica de populações. Hoje construo os sistemas que transformam dados ambientais e de campo em algo sobre o que um time consegue agir.
+Biólogo (PhD), cientista de dados e desenvolvedor. Durante uma década fiz perguntas a dados biológicos: filogeografia, herpetologia, genômica de populações. Hoje construo os sistemas que transformam dados ambientais e de campo em algo sobre o que um time consegue agir.
 
 📍 Natal, RN · [Site](https://rsilveirafh.netlify.app/) · [LinkedIn](https://linkedin.com/in/rsilveirafh) · [Lattes](http://lattes.cnpq.br/6028156427352678)
 
