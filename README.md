@@ -3,7 +3,7 @@
 Biologist (PhD), data scientist and developer. For a decade I asked questions of biological data: phylogeography, herpetology, population genomics. Today I build the systems that turn environmental and field data into something a team can act on.
 
 📍 Natal, RN, Brazil · he/him
-[Website](https://rsilveirafh.netlify.app/) · [LinkedIn](https://linkedin.com/in/rsilveirafh) · [Lattes CV](http://lattes.cnpq.br/6028156427352678)
+[Website](https://rsilveirafh.github.io/) · [LinkedIn](https://linkedin.com/in/rsilveirafh) · [Lattes CV](http://lattes.cnpq.br/6028156427352678)
 
 > **Open to work.** Looking for remote roles as a data scientist or developer in environmental data, ESG, biodiversity or research. Reach me at rsilveirafh@gmail.com or on [LinkedIn](https://linkedin.com/in/rsilveirafh).
 
@@ -91,7 +91,7 @@ Full list on [Lattes](http://lattes.cnpq.br/6028156427352678).
 
 Biólogo (PhD), cientista de dados e desenvolvedor. Durante uma década fiz perguntas a dados biológicos: filogeografia, herpetologia, genômica de populações. Hoje construo os sistemas que transformam dados ambientais e de campo em algo sobre o que um time consegue agir.
 
-📍 Natal, RN · [Site](https://rsilveirafh.netlify.app/) · [LinkedIn](https://linkedin.com/in/rsilveirafh) · [Lattes](http://lattes.cnpq.br/6028156427352678)
+📍 Natal, RN · [Site](https://rsilveirafh.github.io/) · [LinkedIn](https://linkedin.com/in/rsilveirafh) · [Lattes](http://lattes.cnpq.br/6028156427352678)
 
 > **Disponível para novas oportunidades.** Busco vagas remotas como cientista de dados ou desenvolvedor em dados ambientais, ESG, biodiversidade ou pesquisa. Contato: rsilveirafh@gmail.com ou [LinkedIn](https://linkedin.com/in/rsilveirafh).
 
