@@ -3,7 +3,7 @@
 Biologist (PhD), data scientist and developer. For a decade I asked questions of biological data: phylogeography, herpetology, population genomics. Today I build the systems that turn environmental and field data into something a team can act on.
 
 📍 Natal, RN, Brazil · he/him
-[Website](https://rsilveirafh.github.io/) · [LinkedIn](https://linkedin.com/in/rsilveirafh) · [Lattes CV](http://lattes.cnpq.br/6028156427352678)
+[Portfolio](https://rsilveirafh.github.io/en/) · [Résumé (PDF)](https://rsilveirafh.github.io/cv/resume-ricardo-silveira.pdf) · [LinkedIn](https://linkedin.com/in/rsilveirafh) · [Lattes CV](http://lattes.cnpq.br/6028156427352678)
 
 > **Open to work.** Looking for remote roles as a data scientist or developer in environmental data, ESG, biodiversity or research. Reach me at rsilveirafh@gmail.com or on [LinkedIn](https://linkedin.com/in/rsilveirafh).
 
@@ -11,7 +11,7 @@ Biologist (PhD), data scientist and developer. For a decade I asked questions of
 
 ## Recent work
 
-I lead the development portfolio of the innovation team at [Seteg](https://www.setegce.com/), an environmental consultancy, where my contract ends in November 2026. The work falls into a few fronts.
+From 2024 to 2026 I led the development portfolio of the innovation team at [Seteg](https://www.setegce.com/), an environmental consultancy, as Product Owner and Tech Lead. The work fell into a few fronts.
 
 **Field data collection.** Apps that replace paper forms and spreadsheets for biologists running fauna and flora surveys, so records arrive structured instead of being retyped weeks later.
 
@@ -48,6 +48,7 @@ In every one of these jobs I went looking for the same thing: work people were r
 | Project | What it is | Stack |
 |---|---|---|
 | **[tetrapoDNA](https://github.com/rsilveirafh/tetrapoDNA)** | Which Brazilian amphibians, reptiles, birds and mammals still have no public DNA sequence at all? A [live dashboard](https://rsilveirafh.github.io/tetrapoDNA/) checks every species on the official checklists against BOLD and GenBank each week, flags names that need a closer look (synonyms, genus transfers), ranks the gaps by threat and endemism, and lets researchers publicly adopt a species to sequence. It grew out of my PPBio post-doctorate (2022–2023). | R, GitHub Actions, GitHub Pages |
+| **[traqueophyDNA](https://github.com/rsilveirafh/traqueophyDNA)** | The same question and method applied to plants: which native Brazilian vascular plants have no public DNA sequence? The [dashboard](https://rsilveirafh.github.io/traqueophyDNA/) runs every species in Flora e Funga do Brasil against BOLD and GenBank, resolves synonyms through WCVP and the NCBI taxonomy, and breaks the gap down by family, state and phytogeographic domain. Still under construction. | R, GitHub Actions, GitHub Pages |
 | **[banca-simulada](https://github.com/rsilveirafh/banca-simulada)** | Claude Code plugin that reviews a research proposal the way a Brazilian thesis committee or grant panel would, from undergraduate thesis to faculty hiring exams. It checks coherence, method, feasibility, research ethics and references, quotes the passage, grades the severity and suggests a fix without rewriting. It can only cite regulations from a file checked against official sources. In three test runs on fictional proposals with 12 planted errors each, it caught all of them and never quoted a passage that was not in the text. | Claude Code plugin, Markdown, Python |
 | **[memoria-skills](https://github.com/rsilveirafh/memoria-skills)** | Claude Code plugin that turns a Markdown vault into a memory system with a human gate. The agent proposes, I review, a separate command applies. Four commands, and one of them exists only to say no. Running daily on my own vault since May 2026. | Claude Code plugin, Markdown, Git |
 | **[rr-quant](https://github.com/rsilveirafh/rr-quant)** | Personal quant dashboard. Pulls a 46-asset pre-market snapshot covering indices, commodities, FX, rates and volatility, then layers on regime and correlation reads, a logistic-regression scoreboard for the Ibovespa, and a Smart Money Concepts view over OHLC. Runs itself every trading session. | Python, yfinance, Vercel |
@@ -61,7 +62,7 @@ In every one of these jobs I went looking for the same thing: work people were r
 
 PhD and MSc in Zoology at UFPB, working on herpetology, phylogenetics and phylogeography, mostly snakes. Two post-doctorates followed: UNEMAT from 2018 to 2019 on plant ecology and functional traits, and UFRN with PPBio from 2022 to 2023 on biodiversity and bioinformatics. Licentiate in Biological Sciences at UEFS.
 
-Sixteen peer-reviewed articles. A selection:
+Fifteen peer-reviewed articles, plus one accepted in 2026. A selection:
 
 - Brazil's natural grasslands under attack. *Science* 384:168–169 (2024)
 - Hidden costs of Europe's deforestation policy. *Science* 379:341–342 (2023)
@@ -89,13 +90,13 @@ Full list on [Lattes](http://lattes.cnpq.br/6028156427352678).
 
 Biólogo (PhD), cientista de dados e desenvolvedor. Durante uma década fiz perguntas a dados biológicos: filogeografia, herpetologia, genômica de populações. Hoje construo os sistemas que transformam dados ambientais e de campo em algo sobre o que um time consegue agir.
 
-📍 Natal, RN · [Site](https://rsilveirafh.github.io/) · [LinkedIn](https://linkedin.com/in/rsilveirafh) · [Lattes](http://lattes.cnpq.br/6028156427352678)
+📍 Natal, RN · [Portfólio](https://rsilveirafh.github.io/) · [Currículo (PDF)](https://rsilveirafh.github.io/cv/curriculo-ricardo-silveira.pdf) · [LinkedIn](https://linkedin.com/in/rsilveirafh) · [Lattes](http://lattes.cnpq.br/6028156427352678)
 
 > **Disponível para novas oportunidades.** Busco vagas remotas como cientista de dados ou desenvolvedor em dados ambientais, ESG, biodiversidade ou pesquisa. Contato: rsilveirafh@gmail.com ou [LinkedIn](https://linkedin.com/in/rsilveirafh).
 
 ### Trabalho recente
 
-Lidero o portfólio de desenvolvimento do time de inovação da [Seteg](https://www.setegce.com/), consultoria ambiental, onde meu contrato vai até novembro de 2026. O trabalho se divide em algumas frentes.
+De 2024 a 2026 liderei o portfólio de desenvolvimento do time de inovação da [Seteg](https://www.setegce.com/), consultoria ambiental, como Product Owner e Tech Lead. O trabalho se dividia em algumas frentes.
 
 **Coleta de dados em campo.** Apps que substituem formulário de papel e planilha para biólogos em levantamentos de fauna e flora, de modo que o registro chegue estruturado em vez de ser redigitado semanas depois.
 
@@ -126,6 +127,7 @@ Em todos esses trabalhos eu procurei a mesma coisa: o que as pessoas repetiam à
 ### Projetos em destaque
 
 - **[tetrapoDNA](https://github.com/rsilveirafh/tetrapoDNA)**: quais anfíbios, répteis, aves e mamíferos do Brasil ainda não têm nenhuma sequência de DNA pública? [Painel](https://rsilveirafh.github.io/tetrapoDNA/) atualizado toda semana com BOLD e GenBank, com a opção de um pesquisador adotar uma espécie para sequenciar. Nasceu do meu pós-doutorado no PPBio (2022–2023).
+- **[traqueophyDNA](https://github.com/rsilveirafh/traqueophyDNA)**: a mesma pergunta e o mesmo método para as plantas vasculares nativas do Brasil, a partir da Flora e Funga do Brasil. [Painel](https://rsilveirafh.github.io/traqueophyDNA/) em construção.
 - **[banca-simulada](https://github.com/rsilveirafh/banca-simulada)**: plugin do Claude Code que revisa projetos de pesquisa como uma banca ou comitê avaliador faria, do TCC ao concurso docente. Aponta o trecho, a gravidade e a sugestão, sem reescrever.
 - **[memoria-skills](https://github.com/rsilveirafh/memoria-skills)**: plugin do Claude Code que transforma um vault Markdown em memória com portão humano. O agente propõe, eu reviso, um comando separado aplica.
 - **[carona-solidaria](https://github.com/rsilveirafh/carona-solidaria)**: caronas voluntárias para eleitores com dificuldade de locomoção no 2º turno de 2026, em Natal, Recife e João Pessoa. Saiu da ideia ao ar em quatro dias.
@@ -137,7 +139,7 @@ Em todos esses trabalhos eu procurei a mesma coisa: o que as pessoas repetiam à
 
 Doutorado e mestrado em Zoologia pela UFPB, em herpetologia, filogenética e filogeografia, principalmente de serpentes. Depois, dois pós-doutorados: UNEMAT, de 2018 a 2019, em ecologia vegetal e traços funcionais, e UFRN junto ao PPBio, de 2022 a 2023, em biodiversidade e bioinformática. Licenciatura em Ciências Biológicas pela UEFS.
 
-Dezesseis artigos em periódicos, entre eles dois na *Science*, de 2023 e 2024, e um na *Molecular Ecology*. Lista completa no [Lattes](http://lattes.cnpq.br/6028156427352678).
+Quinze artigos em periódicos e um aceito em 2026, entre eles dois na *Science*, de 2023 e 2024, e um na *Molecular Ecology*. Lista completa no [Lattes](http://lattes.cnpq.br/6028156427352678).
 
 </details>
 
